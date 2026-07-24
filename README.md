@@ -2,6 +2,8 @@
 
 **Full Stack Developer** · Building reliable systems since 2019
 
+> Howdy 👋
+
 ---
 
 ## About
@@ -20,27 +22,25 @@ My name is Alex. I'm a fullstack developer with experience across freelance and 
 
 ---
 
-## Featured Projects
+## Worked Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[avto-ostrov.com](https://github.com/Desside/avto-ostrov)** | Automotive marketplace platform | NestJS · PostgreSQL · React |
-| **[desside.dev](https://github.com/Desside/desside.dev)** | Personal developer portfolio | Next.js · TypeScript · Tailwind |
-| **[discord-dev-bots](https://github.com/Desside/discord-dev-bots)** | Developer-focused Discord bots | TypeScript · Discord.js · Node.js |
-
-> More projects coming soon…
+| **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform | NestJS · PostgreSQL · React |
+| **[desside.dev](https://desside.dev)** | Personal developer portfolio | Next.js · TypeScript · Tailwind |
+| **Discord Dev Bots** | Developer-focused Discord bots | TypeScript · Discord.js · Node.js |
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desside&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Desside&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desside&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Desside&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Desside&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
