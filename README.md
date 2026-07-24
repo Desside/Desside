@@ -8,7 +8,7 @@
 
 ## About
 
-My name is Alex. I'm a fullstack developer with experience across freelance and commercial projects since 2019. I focus on building scalable backend systems, real-time applications, and developer tooling.
+My name is Alex. I'm a fullstack developer with experience across freelance and commercial projects since 2019. I focus on building scalable backend systems, real-time applications, and low-level system integrations.
 
 ---
 
@@ -17,8 +17,8 @@ My name is Alex. I'm a fullstack developer with experience across freelance and 
 | Backend | Frontend | Languages | DevOps & Infrastructure |
 |---------|----------|-----------|-------------------------|
 | NestJS · Node.js | React · TypeScript | Java · C/C++ · Python · JavaScript/TypeScript | Docker · Linux · CI/CD · GitHub Actions |
-| **Databases** | **Minecraft** | **AI / ML** | **Tools** |
-| PostgreSQL · MongoDB · Redis | Paper/Spigot · Fabric · BungeeCord | LLM integration · ML pipelines | Git · VS Code · JetBrains · Postman |
+| **Databases** | **Embedded** | **AI / ML** | **Tools** |
+| PostgreSQL · MongoDB · Redis | Arduino · ESP32 · PlatformIO | LLM integration · ML pipelines | Git · VS Code · JetBrains · Postman |
 
 ---
 
@@ -28,7 +28,6 @@ My name is Alex. I'm a fullstack developer with experience across freelance and 
 |---------|-------------|-------|
 | **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform | NestJS · PostgreSQL · React |
 | **[desside.dev](https://desside.dev)** | Personal developer portfolio | Next.js · TypeScript · Tailwind |
-| **Discord Dev Bots** | Developer-focused Discord bots | TypeScript · Discord.js · Node.js |
 
 ---
 
@@ -48,12 +47,10 @@ My name is Alex. I'm a fullstack developer with experience across freelance and 
 ## Current Focus
 
 - **Network Systems** — low-level protocols, high-performance networking
-- **Discord Bots** — developer tooling, automation, real-time systems
-
----
-
-## Learning
-
+- **Windows API & System Programming** — kernel drivers, keyboard drivers, Win32 API
+- **Embedded & IoT** — Arduino IDE, ESP32, PlatformIO, microcontroller firmware
+- **Robotics** — ROS, motor control, sensor fusion, autonomous systems
+- **3D Printing** — firmware tuning, slicer optimization, printer calibration
 - **LLM & Machine Learning** — model integration, fine-tuning, RAG pipelines
 
 ---
