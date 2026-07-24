@@ -159,14 +159,38 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desside&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desside&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Desside&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12&custom_title=Desside%27s%20GitHub%20Stats" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desside&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&border_radius=12&custom_title=Top%20Languages" alt="Top Languages" height="195"/>
+  
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Desside&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5" alt="GitHub Streak" height="180"/>
-</p>
+<br>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=Desside&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&border_radius=12&custom_title=Contribution%20Streak" alt="GitHub Streak" height="195"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Desside&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SSS,SS,S,AAA,AA,A,B,BBB,BB,B,C&title=MultiLanguage,Repositories,Commits,PullRequests,Issues,Stars,Followers" alt="GitHub Trophies" height="195"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Desside&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="90%"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Desside&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12&custom_title=WakaTime%20Coding%20Stats&layout=compact&langs_count=8" alt="WakaTime Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Desside&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&border_radius=12&custom_title=Total%20Contributions&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="Contribution Details" height="195"/>
+  
+</div>
 
 <br>
 
