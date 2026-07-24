@@ -17,13 +17,13 @@
 
 <div align="center">
 <pre>
-<a href="#about">ᴀʙᴏᴜᴛ</a>  •  <a href="#tech-stack">ᴛᴇᴄʜ sᴛᴀᴄᴋ</a>  •  <a href="#worked-projects">ᴘʀᴏᴊᴇᴄᴛꜱ</a>  •  <a href="#current-focus">ꜰᴏᴄᴜꜱ</a>  •  <a href="#statistics">ꜱᴛᴀᴛꜱ</a>  •  <a href="#contact">ᴄᴏɴᴛᴀᴄᴛ</a>
+<a href="#about">ᴀʙᴏᴜᴛ</a>  ❖  <a href="#tech-stack">ᴛᴇᴄʜ sᴛᴀᴄᴋ</a>  ❖  <a href="#worked-projects">ᴘʀᴏᴊᴇᴄᴛꜱ</a>  ❖  <a href="#current-focus">ꜰᴏᴄᴜꜱ</a>  ❖  <a href="#statistics">ꜱᴛᴀᴛꜱ</a>  ❖  <a href="#contact">ᴄᴏɴᴛᴀᴄᴛ</a>
 </pre>
 </div>
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="about"></a>
 <br>
@@ -34,14 +34,14 @@
 
 <br>
 
-My name is **Alex**. I'm a fullstack developer with experience across freelance and commercial projects since 2019. I focus on building scalable backend systems, real-time applications, and low-level system integrations — from kernel drivers to embedded firmware.
+My name is **Alex**. I'm a fullstack developer with experience across freelance and commercial projects since 2019. I focus on building scalable backend systems, real-time applications, and low-level system integrations → from kernel drivers to embedded firmware.
 
 > [!NOTE]
-> **Core philosophy:** Clean architecture, measurable performance, and maintainable code. I believe the best systems are invisible — they just work.
+> **Core philosophy:** Clean architecture, measurable performance, and maintainable code. The best systems are invisible → they just work ✨
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="tech-stack"></a>
 <br>
@@ -98,7 +98,7 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="worked-projects"></a>
 <br>
@@ -111,15 +111,15 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform — full-stack solution with real-time listings, payments, and admin panel | `NestJS` `PostgreSQL` `React` `Docker` | 🟢 Production |
-| **[desside.dev](https://desside.dev)** | Personal developer portfolio — modern static site with blog, projects showcase, and analytics | `Next.js` `TypeScript` `Tailwind` `Vercel` | 🟢 Live |
+| **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform → full-stack with real-time listings, payments, admin panel | `NestJS` `PostgreSQL` `React` `Docker` | 🟢 Production |
+| **[desside.dev](https://desside.dev)** | Personal developer portfolio → modern static site with blog, projects showcase, analytics | `Next.js` `TypeScript` `Tailwind` `Vercel` | 🟢 Live |
 
 > [!TIP]
-> More projects in development — embedded firmware, robotics control systems, and Windows kernel utilities coming soon.
+> More projects in development → embedded firmware, robotics control systems, Windows kernel utilities coming soon ◟( ˘ ³˘)◞
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="current-focus"></a>
 <br>
@@ -136,15 +136,15 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 | **Windows API & System Programming** | Kernel drivers, keyboard filter drivers, Win32 API, WDM/KMDF |
 | **Embedded & IoT** | Arduino IDE, ESP32, PlatformIO, microcontroller firmware, FreeRTOS |
 | **Robotics** | ROS 2, motor control, sensor fusion, SLAM, autonomous navigation |
-| **3D Printing** | Klipper/Marlin firmware tuning, slicer optimization, printer calibration, enclosure design |
+| **3D Printing** | Klipper/Marlin firmware tuning, slicer optimization, printer calibration |
 | **LLM & Machine Learning** | Model integration, fine-tuning, RAG pipelines, local inference optimization |
 
 > [!IMPORTANT]
-> Actively seeking challenging roles in **systems programming**, **embedded engineering**, or **backend infrastructure** where low-level expertise meets scalable architecture.
+> Actively seeking challenging roles in **systems programming**, **embedded engineering**, or **backend infrastructure** where low-level expertise meets scalable architecture ( •̀ ω •́ )✧
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="statistics"></a>
 <br>
@@ -166,7 +166,7 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 <br>
 
-<p align="center">━━━━━━━ ❖ ━━━━━━━</p>
+<p align="center">◈ ◈ ◈</p>
 
 <a id="contact"></a>
 <br>
@@ -185,7 +185,7 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 <br>
 
-<p align="center">━━━━━━━ ༓ ━━━━━━━</p>
+<p align="center">✧ ❖ ✧</p>
 
 <div align="center">
   <sub>Built with precision · Updated regularly</sub>
