@@ -109,13 +109,17 @@ My name is **Alex**. I'm a fullstack developer with experience across freelance 
 
 <br>
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform → full-stack with real-time listings, payments, admin panel | `NestJS` `PostgreSQL` `React` `Docker` | 🟢 Production |
-| **[desside.dev](https://desside.dev)** | Personal developer portfolio → modern static site with blog, projects showcase, analytics | `Next.js` `TypeScript` `Tailwind` `Vercel` | 🟢 Live |
+| Project | Description | Stack | Status | Visibility |
+|---------|-------------|-------|--------|------------|
+| **[avto-ostrov.com](https://avto-ostrov.com)** | Automotive marketplace platform → full-stack with real-time listings, payments, admin panel | `NestJS` `PostgreSQL` `React` `Docker` | 🟢 Production | Public |
+| **[desside.dev](https://desside.dev)** | Discord bot dashboard/panel → bot management, analytics, guild config, user panel | `Next.js` `TypeScript` `Tailwind` `Vercel` | 🟢 Live | Public |
+| **[api.desside.dev](https://api.desside.dev)** | Internal API gateway → Discord bot microservices, rate limiting, caching, monitoring | `NestJS` `PostgreSQL` `Redis` `Docker` | 🟢 Production | Private |
+| **Panel v2 (WIP)** | Next-gen bot dashboard → real-time metrics, plugin marketplace, multi-bot orchestration | `Next.js` `tRPC` `Prisma` `Tailwind` | 🟡 Beta | Private |
 
 > [!TIP]
-> More projects in development → embedded firmware, robotics control systems, Windows kernel utilities coming soon ◟( ˘ ³˘)◞
+> **Portfolio site coming soon** → dedicated showcase for all projects, case studies, and technical writing ◟( ˘ ³˘)◞
+>
+> More projects in development → embedded firmware, robotics control systems, Windows kernel utilities, private Discord infrastructure
 
 <br>
 
